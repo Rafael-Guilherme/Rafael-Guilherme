@@ -1,22 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7e7ce&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Guilherme;I'm+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafael-Guilherme&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Guilherme github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Guilherme&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafael-Guilherme&theme=gotham)
-
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafael-Guilherme&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-<div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>-->
 
 ### Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -52,6 +36,17 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+[![Rafael Guilherme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Guilherme&theme=tokyo-night&hide_border=true&show_icons=true)](https://github.com/Rafael-Guilherme/github-readme-activity-graph)
+<img align="left" height="415px" src="https://stats-readme-git-main-derfelk.vercel.app/api/top-langs?username=Rafael-Guilherme&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<div align="right">
+  <img height="203px" src="https://stats-readme-git-main-derfelk.vercel.app/api?username=Rafael-Guilherme&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="203px" src="https://streak-stats.demolab.com?user=Rafael-Guilherme&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
+<!--
+<img height="203px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rafael-Guilherme" />
+[![Rafael Guilherme's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rafael-Guilherme)](https://github.com/Rafael-Guilherme/github-readme-stats)
+-->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
