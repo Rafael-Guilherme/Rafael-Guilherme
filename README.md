@@ -11,6 +11,7 @@
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=reactnative&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Tools:
