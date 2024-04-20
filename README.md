@@ -47,7 +47,7 @@
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Rafael-Guilherme&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github" />
   <img height="203px" src="https://streak-stats.demolab.com?user=Rafael-Guilherme&theme=tokyonight&hide_border=true" />
 </div>
-<img height="415px" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Guilherme&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens" />
+<img height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Guilherme&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens" />
 <br/>
 <!--[![Rafael's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rafael_Guilherme)]-->
 
