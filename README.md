@@ -49,7 +49,6 @@
 </div>
 <img height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Guilherme&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens" />
 <br/>
-<!--[![Rafael's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rafael_Guilherme)]-->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
