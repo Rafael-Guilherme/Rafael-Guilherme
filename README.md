@@ -42,6 +42,13 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### You can find me in:
+<div >
+  <a href="https://www.linkedin.com/in/rafael-de-freitas-guilherme/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 [![Rafael Guilherme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Guilherme&theme=tokyo-night&hide_border=true&show_icons=true)](https://github.com/Rafael-Guilherme/github-readme-activity-graph)
 <div >
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Rafael-Guilherme&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github" />
@@ -56,9 +63,3 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
-
-<div >
-  <a href="https://www.linkedin.com/in/rafael-de-freitas-guilherme/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
